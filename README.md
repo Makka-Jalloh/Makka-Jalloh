@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Makka.
-- 👀 I’m interested in Computer Programming.
+- 👀 I’m interested in Computer Programming and cyber security.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking forward to improving my programming skills.
 - 📫 You can reach me via jamadoumakka@gmail.com
